@@ -1,71 +1,5 @@
 [
   {
-    "id": "EFTA00004157-3.png",
-    "original_filename": "EFTA00004157-3.png",
-    "source": "doj",
-    "release_batch": null,
-    "source_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004157.pdf",
-    "redacted": false,
-    "width": 1240,
-    "height": 1688,
-    "person_ids": null
-  },
-  {
-    "id": "EFTA00004157-5.png",
-    "original_filename": "EFTA00004157-5.png",
-    "source": "doj",
-    "release_batch": null,
-    "source_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004157.pdf",
-    "redacted": false,
-    "width": 1240,
-    "height": 1688,
-    "person_ids": null
-  },
-  {
-    "id": "EFTA00004157-7.png",
-    "original_filename": "EFTA00004157-7.png",
-    "source": "doj",
-    "release_batch": null,
-    "source_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00004157.pdf",
-    "redacted": false,
-    "width": 1240,
-    "height": 1688,
-    "person_ids": null
-  },
-  {
-    "id": "EFTA00005381-1.png",
-    "original_filename": "EFTA00005381-1.png",
-    "source": "doj",
-    "release_batch": null,
-    "source_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005381.pdf",
-    "redacted": false,
-    "width": 1240,
-    "height": 1688,
-    "person_ids": null
-  },
-  {
-    "id": "EFTA00005386-78.png",
-    "original_filename": "EFTA00005386-78.png",
-    "source": "doj",
-    "release_batch": null,
-    "source_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005386.pdf",
-    "redacted": false,
-    "width": 1240,
-    "height": 1818,
-    "person_ids": null
-  },
-  {
-    "id": "EFTA00005569-1.png",
-    "original_filename": "EFTA00005569-1.png",
-    "source": "doj",
-    "release_batch": null,
-    "source_url": "https://www.justice.gov/epstein/files/DataSet%203/EFTA00005569.pdf",
-    "redacted": false,
-    "width": 1729,
-    "height": 1447,
-    "person_ids": null
-  },
-  {
     "id": "EFTA00003159-0.png",
     "original_filename": "EFTA00003159-0.png",
     "source": "doj",
@@ -1215,6 +1149,77 @@
     "redacted": false,
     "width": 2207,
     "height": 3059,
+    "person_ids": null
+  },
+  {
+    "id": "EFTA00003236-7.png",
+    "original_filename": "EFTA00003236-7.png",
+    "source": "doj",
+    "release_batch": "VOL00002",
+    "source_url": "https://www.justice.gov/epstein/files/DataSet%202/EFTA00003236.pdf",
+    "redacted": false,
+    "width": 2163,
+    "height": 3031,
+    "person_ids": null
+  },
+  {
+    "id": "EFTA00003236-8.png",
+    "original_filename": "EFTA00003236-8.png",
+    "source": "doj",
+    "release_batch": "VOL00002",
+    "source_url": "https://www.justice.gov/epstein/files/DataSet%202/EFTA00003236.pdf",
+    "redacted": false,
+    "width": 2102,
+    "height": 3034,
+    "person_ids": null
+  },
+  {
+    "id": "EFTA00003236-9.png",
+    "original_filename": "EFTA00003236-9.png",
+    "source": "doj",
+    "release_batch": "VOL00002",
+    "source_url": "https://www.justice.gov/epstein/files/DataSet%202/EFTA00003236.pdf",
+    "redacted": false,
+    "width": 2227,
+    "height": 3050,
+    "person_ids": null
+  },
+  {
+    "id": "EFTA00003256-0.png",
+    "original_filename": "EFTA00003256-0.png",
+    "source": "doj",
+    "release_batch": "VOL00002",
+    "source_url": "https://www.justice.gov/epstein/files/DataSet%202/EFTA00003256.pdf",
+    "redacted": false,
+    "width": 1994,
+    "height": 3027,
+    "person_ids": [
+      "andr-s-pastrana-arango",
+      "ghislaine-maxwell"
+    ]
+  },
+  {
+    "id": "EFTA00003256-1.png",
+    "original_filename": "EFTA00003256-1.png",
+    "source": "doj",
+    "release_batch": "VOL00002",
+    "source_url": "https://www.justice.gov/epstein/files/DataSet%202/EFTA00003256.pdf",
+    "redacted": false,
+    "width": 2982,
+    "height": 2300,
+    "person_ids": [
+      "ghislaine-maxwell"
+    ]
+  },
+  {
+    "id": "EFTA00003256-10.png",
+    "original_filename": "EFTA00003256-10.png",
+    "source": "doj",
+    "release_batch": "VOL00002",
+    "source_url": "https://www.justice.gov/epstein/files/DataSet%202/EFTA00003256.pdf",
+    "redacted": false,
+    "width": 2975,
+    "height": 2596,
     "person_ids": null
   }
 ]
