@@ -1,0 +1,154 @@
+[
+  {
+    "user_id": "user_001",
+    "favorite_colors": [
+      "gris",
+      "noir"
+    ],
+    "favorite_orientation": "landscape",
+    "favorite_size": "medium",
+    "favorite_tags": [
+      "extérieur",
+      "jour",
+      "aJE"
+    ],
+    "favorite_images": [
+      "EFTA00003160-0.png",
+      "EFTA00003200-0.png",
+      "EFTA00003193-0.png",
+      "EFTA00003191-0.png",
+      "EFTA00003188-0.png",
+      "EFTA00003190-0.png",
+      "EFTA00003163-0.png",
+      "EFTA00003189-0.png",
+      "EFTA00003187-0.png",
+      "EFTA00003186-0.png"
+    ]
+  },
+  {
+    "user_id": "user_002",
+    "favorite_colors": [
+      "noir",
+      "marron"
+    ],
+    "favorite_orientation": "portrait",
+    "favorite_size": "medium",
+    "favorite_tags": [
+      "intérieur",
+      "aJE",
+      "nuit"
+    ],
+    "favorite_images": [
+      "EFTA00003192-0.png",
+      "EFTA00003177-0.png",
+      "EFTA00003176-0.png",
+      "EFTA00003174-0.png",
+      "EFTA00003198-0.png",
+      "EFTA00003175-0.png",
+      "EFTA00003199-0.png",
+      "EFTA00003167-0.png",
+      "EFTA00003166-0.png",
+      "EFTA00003165-0.png",
+      "EFTA00003178-0.png"
+    ]
+  },
+  {
+    "user_id": "user_003",
+    "favorite_colors": [
+      "blanc",
+      "gris"
+    ],
+    "favorite_orientation": "portrait",
+    "favorite_size": "large",
+    "favorite_tags": [
+      "album_photo",
+      "aJE"
+    ],
+    "favorite_images": [
+      "EFTA00003236-2.png",
+      "EFTA00003216-19.png",
+      "EFTA00003236-9.png",
+      "EFTA00003256-0.png",
+      "EFTA00003216-8.png",
+      "EFTA00003216-7.png",
+      "EFTA00003216-6.png",
+      "EFTA00003216-13.png",
+      "EFTA00003236-5.png",
+      "EFTA00003216-0.png",
+      "EFTA00003216-3.png",
+      "EFTA00003216-12.png",
+      "EFTA00003236-8.png",
+      "EFTA00003236-7.png",
+      "EFTA00003216-9.png",
+      "EFTA00003216-16.png",
+      "EFTA00003216-18.png",
+      "EFTA00003216-4.png"
+    ]
+  },
+  {
+    "user_id": "user_004",
+    "favorite_colors": [
+      "noir",
+      "gris"
+    ],
+    "favorite_orientation": "landscape",
+    "favorite_size": "medium",
+    "favorite_tags": [
+      "aJE",
+      "extérieur",
+      "nuit"
+    ],
+    "favorite_images": [
+      "EFTA00003210-0.png",
+      "EFTA00003203-0.png",
+      "EFTA00003209-0.png",
+      "EFTA00003206-0.png",
+      "EFTA00003207-0.png",
+      "EFTA00003208-0.png",
+      "EFTA00003211-0.png",
+      "EFTA00003202-0.png",
+      "EFTA00003205-0.png",
+      "EFTA00003213-0.png",
+      "EFTA00003204-0.png",
+      "EFTA00003214-0.png",
+      "EFTA00003163-0.png",
+      "EFTA00003189-0.png",
+      "EFTA00003178-0.png",
+      "EFTA00003188-0.png",
+      "EFTA00003171-0.png",
+      "EFTA00003160-0.png"
+    ]
+  },
+  {
+    "user_id": "user_005",
+    "favorite_colors": [
+      "noir",
+      "marron"
+    ],
+    "favorite_orientation": "portrait",
+    "favorite_size": "medium",
+    "favorite_tags": [
+      "intérieur",
+      "aJE",
+      "nuit"
+    ],
+    "favorite_images": [
+      "EFTA00003177-0.png",
+      "EFTA00003171-0.png",
+      "EFTA00003178-0.png",
+      "EFTA00003184-0.png",
+      "EFTA00003172-0.png",
+      "EFTA00003192-0.png",
+      "EFTA00003176-0.png",
+      "EFTA00003182-0.png",
+      "EFTA00003173-0.png",
+      "EFTA00003195-0.png",
+      "EFTA00003174-0.png",
+      "EFTA00003204-0.png",
+      "EFTA00003214-0.png",
+      "EFTA00003199-0.png",
+      "EFTA00003202-0.png",
+      "EFTA00003183-0.png"
+    ]
+  }
+]
